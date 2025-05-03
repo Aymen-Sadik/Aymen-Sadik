@@ -27,7 +27,7 @@
 
 - 📧 aymensadikpro@gmail.com  
 - 📱 +212 6 20 70 19 10
-- 💼 LinkedIn: https://www.linkedin.com/in/aymen-sadik-41b0042a0/
+- 💼 LinkedIn: linkedin.com/in/aymen-sadik
 
 I'm always open to collaborations, internships, and freelance opportunities to grow and learn.
 
