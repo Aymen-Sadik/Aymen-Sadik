@@ -1,36 +1,135 @@
+<div align="center">
+
 # 👋 Hi, I'm Aymen Sadik
 
-🎓 I'm a 20-year-old full-stack development student at CMC Casablanca-Settat.  
-💻 Passionate about digital development, coding, and building impactful web applications.  
+### 💻 Full-Stack Developer Student
 
-## 🚀 Skills
+Building modern, scalable and high-performance web applications.
 
-- 💡 Adaptability & Problem-Solving
-- 🤝 Teamwork & Communication
-- 📋 Organization & Responsibility
-- 🌐 Web Development
-- 🖥️ Programming Languages (Still learning and growing!)
+<p>
+<a href="mailto:aymensadikpro@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/aymen-sadik/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
-## 🛠️ Technologies I'm Learning
-
-- HTML / CSS / JavaScript
-- React / Node.js
-- Express / MongoDB
-- Git & GitHub
-
-## 📚 Education
-
-**🎓 Baccalauréat en Sciences Physiques – 2023**  
-**📘 Currently studying full-stack development at CMC Casablanca-Settat**
-
-## 📫 Contact Me
-
-- 📧 aymensadikpro@gmail.com  
-- 📱 +212 6 20 70 19 10
-- 💼 LinkedIn: https://www.linkedin.com/in/aymen-sadik/
-
-I'm always open to collaborations, internships, and freelance opportunities to grow and learn.
+</div>
 
 ---
 
-> 🔧 *This profile is under development—just like me! Stay tuned as I build and share new projects.*
+# 🚀 About Me
+
+I'm a passionate **Full-Stack Developer** who enjoys creating modern web applications, REST APIs, and scalable backend solutions.
+
+I like learning new technologies, solving real-world problems, and writing clean, maintainable code.
+
+I'm always looking for opportunities to collaborate on exciting projects and continue growing as a developer.
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+- Microsoft SQL Server
+- SQL
+- NoSQL
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,figma" />
+</p>
+
+---
+
+# ⚡ Programming Languages
+
+- C#
+- JavaScript
+- TypeScript
+- PHP
+- SQL
+
+---
+
+# 🎯 What I Build
+
+✔️ REST APIs
+
+✔️ Full-Stack Web Applications
+
+✔️ Admin Dashboards
+
+✔️ Authentication & Authorization (JWT)
+
+✔️ CRUD Applications
+
+✔️ Database Design
+
+✔️ Responsive User Interfaces
+
+✔️ Enterprise Applications
+
+---
+
+# 🌱 Currently Exploring
+
+- ASP.NET Core
+- Entity Framework Core
+- Clean Architecture
+- Microservices
+- Docker
+- Cloud Computing
+- Software Architecture
+
+---
+
+# 🤝 Soft Skills
+
+- Problem Solving
+- Teamwork
+- Communication
+- Adaptability
+- Fast Learning
+- Time Management
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+**aymensadikpro@gmail.com**
+
+💼 **LinkedIn**
+
+**https://www.linkedin.com/in/aymen-sadik/**
+
+---
+
+<div align="center">
+
+### 💡 "Turning ideas into reliable software."
+
+Thanks for visiting my profile! 🚀
+
+</div>
